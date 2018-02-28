@@ -1,0 +1,7 @@
+C:\Users\Jonas\Desktop\TcpChatServerAA\TcpChatServerAA\bin\Debug\TcpChatServerAA.exe.config
+C:\Users\Jonas\Desktop\TcpChatServerAA\TcpChatServerAA\bin\Debug\TcpChatServerAA.exe
+C:\Users\Jonas\Desktop\TcpChatServerAA\TcpChatServerAA\bin\Debug\TcpChatServerAA.pdb
+C:\Users\Jonas\Desktop\TcpChatServerAA\TcpChatServerAA\obj\Debug\TcpChatServerAA.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\Desktop\TcpChatServerAA\TcpChatServerAA\obj\Debug\TcpChatServerAA.exe
+C:\Users\Jonas\Desktop\TcpChatServerAA\TcpChatServerAA\obj\Debug\TcpChatServerAA.pdb
+C:\Users\Jonas\Desktop\TcpChatServerAA\TcpChatServerAA\obj\Debug\TcpChatServerAA.csprojResolveAssemblyReference.cache
